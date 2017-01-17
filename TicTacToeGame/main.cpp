@@ -3,7 +3,7 @@
 * Simple Tic Tac Toe
 *
 * Git Hub test by Sora Hernandez and Rogelio Hernandez
-*
+* 01/17/2017
 */
 
 #include <iostream>
